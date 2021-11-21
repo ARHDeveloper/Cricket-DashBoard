@@ -75,7 +75,7 @@ function Dashboard() {
 <br />
 
                         <Typography variant="body2">
-                            Commentry: <b> {score?.comentry || "Catch drop by Ahmed Shahzad"}</b>
+                            Commentry: <b> {score?.comentry || "Nasser Hussain & Shane Watson"}</b>
                         </Typography>
                     </CardContent>
                     {/* <CardActions>
